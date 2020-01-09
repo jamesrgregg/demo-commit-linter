@@ -15,4 +15,6 @@
 # vendor/
 
 # Commit Linter rules
-.github/
+#.github
+#.github/
+#.github/config.yml

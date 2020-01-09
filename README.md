@@ -26,8 +26,10 @@ COMMIT_MESSAGE_REGEX: /(#)(#)((?:[a-z][a-z]+))(\d{3})(:)([a-z0-9])/i
 
 For above regex, the corresponding valid messages would be:
 ```
-PR message - JIR123:login feature
+PR Title message - JIR123:login feature
 
 Commit message - ##JIR302:login feature
 ```
+
+
 Reference: [Commit-Message-Lint](https://github.com/SystangoTechnologies/commit-message-lint/wiki/Commit-Message-Lint---2.0)
